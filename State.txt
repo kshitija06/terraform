@@ -1,0 +1,1 @@
+Terraform uses state file to keep track of the resources it manages. This state file is usually stored in terraform.tfstate
