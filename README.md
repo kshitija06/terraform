@@ -1,1 +1,1 @@
-# terraform
+# terraform is an open-source infratructure as code tool that allows you to define and provision infrastructure using a declarative configuration language. Here are some key Terraform configurations language.
